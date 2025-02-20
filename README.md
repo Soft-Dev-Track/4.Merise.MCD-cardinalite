@@ -1,1 +1,1 @@
-# 4.Merise.MCD-cardinalite
+# 4.Merise : Modèle Conceptuel de Données (MCD) : Cardinalité
